@@ -1,3 +1,3 @@
 # sampleAppPage
 
-<p>A sample product page mockup</p>
+A sample page for when I was learning Bootstrap.
